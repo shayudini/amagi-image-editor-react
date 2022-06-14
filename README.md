@@ -1,3 +1,12 @@
+# TODO
+
+- Add drag and drop
+- Add tools (Download, clear, reset, load new)
+- Make responsive
+- Add tests
+
+---------------------------------------------------------------
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
